@@ -1,0 +1,1 @@
+from intertext_graph.parsers.grobid_parser import TEIXMLParser

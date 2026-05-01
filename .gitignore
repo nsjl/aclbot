@@ -1,0 +1,4 @@
+aclbot/data/
+.idea/
+__pycache__
+.env

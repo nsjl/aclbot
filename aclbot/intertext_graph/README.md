@@ -1,0 +1,1 @@
+This directory contains internal code (newer version) from the [intertext-graph](https://github.com/UKPLab/intertext-graph) repository. It is used to convert TEI XML files (GROBID output) to json. The jsons are then ingested to a neo4j graph database.
