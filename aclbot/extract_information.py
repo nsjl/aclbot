@@ -416,7 +416,7 @@ def main(
     logger.info('Starting Program')
     logger.info(f'Program in mode {mode}.')
     logger.info(f'Using data source {data_source} from {data_path}.')
-    logger.info(f'Using OpenAI model {openai_model_name} with API key {openai_api_key[:10]}...{openai_api_key[-10:]}')
+    logger.info(f'Using OpenAI model {openai_model_name}.')
     logger.info(f'Using multiprocessing: {do_multiprocessing}')
     logger.info(f'Using {n_processes} processes.')
     logger.info(f'Using start index {start_index} and end index {end_index}.')
