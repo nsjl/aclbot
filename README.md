@@ -295,7 +295,7 @@ pip install streamlit
 From the `aclbot` directory, run: 
 
 ```bash
-python -m aclbot.streamlit_ui
+python -m streamlit run streamlit_ui.py
 ```
 
 ## Licensing
